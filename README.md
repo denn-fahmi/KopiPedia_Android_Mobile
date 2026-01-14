@@ -24,7 +24,7 @@ Aplikasi Android berbasis edukasi untuk mengenal jenis-jenis biji kopi dan metod
 Alur cerita bagaimana pengguna berinteraksi dengan aplikasi, mulai dari Splash Screen hingga menemukan metode seduh yang tepat.
 
 
-*(Ganti teks ini dengan memasukkan gambar storyboard Anda: ![Storyboard](link_gambar_anda))*
+<img src="web10/database.PNG" width="700"> <p>
 
 ---
 
