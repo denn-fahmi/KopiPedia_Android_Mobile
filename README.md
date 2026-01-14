@@ -32,7 +32,7 @@ Alur cerita bagaimana pengguna berinteraksi dengan aplikasi, mulai dari Splash S
 Kerangka dasar aplikasi yang dibuat di Figma untuk menentukan tata letak elemen tanpa gangguan visual warna.
 
 
-*(Ganti teks ini dengan gambar wireframe Figma Anda: ![Wireframe](link_gambar_anda))*
+<img src="kopiassetfr/wireframe.PNG" width="700"> <p>
 
 ---
 
@@ -40,7 +40,7 @@ Kerangka dasar aplikasi yang dibuat di Figma untuk menentukan tata letak elemen 
 Desain antarmuka pengguna akhir dengan tema warna Earthy (Cokelat & Cream) untuk memberikan kesan hangat dan organik seperti kopi.
 
 
-*(Ganti teks ini dengan gambar UI Figma Anda: ![UI Design](link_gambar_anda))*
+<img src="kopiassetfr/k4.PNG" width="700"> <p>
 
 ---
 
@@ -48,15 +48,15 @@ Desain antarmuka pengguna akhir dengan tema warna Earthy (Cokelat & Cream) untuk
 Representasi visual bagaimana aplikasi terlihat di perangkat Android nyata.
 
 
-*(Ganti teks ini dengan gambar Mockup Figma Anda: ![Mockup](link_gambar_anda))*
+<img src="kopiassetfr/mockup.PNG" width="700"> <p>
 
 ---
 
 ### 5. UX Demo (Video)
 Penjelasan pengalaman pengguna (User Experience) dalam menggunakan aplikasi secara langsung.
 
-[![KopiPedia UX Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
-*(Ganti YOUTUBE_VIDEO_ID dengan ID video YouTube Anda)*
+[![KopiPedia UX Demo YouTube]() <p>
+[![KopiPedia UX Demo Figma]() <p>
 
 ---
 
