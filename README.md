@@ -68,8 +68,3 @@ Penjelasan pengalaman pengguna (User Experience) dalam menggunakan aplikasi seca
 - **Design Tool**: Figma
 
 ---
-
-## 🚀 Instalasi
-1. Clone repositori ini:
-   ```bash
-   git clone [https://github.com/username/KopiPedia.git](https://github.com/username/KopiPedia.git)
