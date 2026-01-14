@@ -1,7 +1,7 @@
 # KopiPedia_Android_Mobile
-Nama: Den Fahmi Satria
-Nim: 312410523
-Kelas: TI.24.A5
+Nama: Den Fahmi Satria <p>
+Nim: 312410523 <p>
+Kelas: TI.24.A5 <p>
 # KopiPedia ☕
 Aplikasi Android berbasis edukasi untuk mengenal jenis-jenis biji kopi dan metode penyeduhannya secara presisi.
 
