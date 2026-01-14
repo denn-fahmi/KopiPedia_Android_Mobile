@@ -56,7 +56,7 @@ Representasi visual bagaimana aplikasi terlihat di perangkat Android nyata.
 Penjelasan pengalaman pengguna (User Experience) dalam menggunakan aplikasi secara langsung.
 
 [![KopiPedia UX Demo YouTube]() <p>
-[![KopiPedia UX Demo Figma]() <p>
+[![KopiPedia UX Demo Figma](https://www.figma.com/proto/8RNvlsXZiJvJKbH3rT84b4/Project?node-id=0-1&t=drVPTNnI3zaDvQRk-1) <p>
 
 ---
 
