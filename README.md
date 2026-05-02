@@ -15,7 +15,7 @@ Aplikasi Android berbasis edukasi untuk mengenal jenis-jenis biji kopi dan metod
 - **Notifikasi Cerdas**: Menggunakan Firebase Cloud Messaging untuk tips kopi harian.
 - **Katalog Biji Kopi**: Detail mendalam mengenai karakteristik rasa dan aroma.
 - **Panduan Menyeduh**: Instruksi teknis penyeduhan yang disesuaikan dengan jenis biji kopi.
-- **Fitur AI: Rekomendasi Kopi**
+- **Fitur AI: Rekomendasi Kopi**: fitur ini menyediakan ruang kepada user untuk bertanya tentang apapun yang berkaitan dengan kopi.
 
 ---
 
