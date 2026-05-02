@@ -15,6 +15,7 @@ Aplikasi Android berbasis edukasi untuk mengenal jenis-jenis biji kopi dan metod
 - **Notifikasi Cerdas**: Menggunakan Firebase Cloud Messaging untuk tips kopi harian.
 - **Katalog Biji Kopi**: Detail mendalam mengenai karakteristik rasa dan aroma.
 - **Panduan Menyeduh**: Instruksi teknis penyeduhan yang disesuaikan dengan jenis biji kopi.
+- **Fitur AI: Rekomendasi Kopi**
 
 ---
 
@@ -52,13 +53,9 @@ Representasi visual bagaimana aplikasi terlihat di perangkat Android nyata.
 
 ---
 
-### 5. UX Demo (Video)
-Penjelasan pengalaman pengguna (User Experience) dalam menggunakan aplikasi secara langsung.
+### 5. Fitur AI: rekomendasi Kopi
 
-KopiPedia UX Demo YouTube <p>
- <p>
-KopiPedia UX Demo Link Figma <p>
-https://www.figma.com/proto/8RNvlsXZiJvJKbH3rT84b4/Project?node-id=0-1&t=drVPTNnI3zaDvQRk-1 <p>
+<img src="kopiassetfr/mockup.PNG" width="700"> <p>
 
 ---
 
