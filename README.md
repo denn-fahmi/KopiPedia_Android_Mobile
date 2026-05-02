@@ -55,7 +55,7 @@ Representasi visual bagaimana aplikasi terlihat di perangkat Android nyata.
 
 ### 5. Fitur AI: rekomendasi Kopi
 
-<img src="kopiassetfr/asliitu.JPEG" width="700"> <p>
+<img src="kopiassetfr/asliitu.jpeg" width="700"> <p>
 
 ---
 
