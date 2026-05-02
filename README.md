@@ -3,8 +3,8 @@ Nama: Den Fahmi Satria <p>
 Nim: 312410523 <p>
 Kelas: TI.24.A5 <p>
 # KopiPedia ☕
-Aplikasi Android berbasis edukasi untuk mengenal jenis-jenis biji kopi dan metode penyeduhannya secara presisi.
-
+Aplikasi Android berbasis edukasi untuk mengenal jenis-jenis biji kopi dan metode penyeduhannya secara presisi. <p>
+Proyek ini dikelola menggunakan metodologi SCRUM. Progres pengerjaan dapat dilihat di: [https://sharing.clickup.com/90181231080/b/h/2kzkgrf8-658/5b3b549e148a349] <p>
 ---
 
 ## 📌 Deskripsi Proyek
