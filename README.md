@@ -60,8 +60,8 @@ Representasi visual bagaimana aplikasi terlihat di perangkat Android nyata.
 ---
 
 ### 6. TimeLine: Clickup
-<img src="kopiassetfr/clickup-gantt.jpeg" width="700"> <p>
-<img src="kopiassetfr/clickup-board.jpeg" width="700"> <p>
+<img src="kopiassetfr/clickup-gantt.png" width="700"> <p>
+<img src="kopiassetfr/clickup-board.png" width="700"> <p>
 
 ---
 
