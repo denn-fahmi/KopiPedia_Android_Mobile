@@ -68,7 +68,7 @@ Representasi visual bagaimana aplikasi terlihat di perangkat Android nyata.
 ---
 
 ## Link Demo Video Youtube
-Link Youtube: 
+Link Youtube: [https://youtu.be/7Vapp5B6VZw?si=OsgzcTa2FT-1f7LT]
 
 ## 🛠️ Tech Stack
 - **Language**: Java
