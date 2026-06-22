@@ -4,7 +4,7 @@ Nim: 312410523 <p>
 Kelas: TI.24.A5 <p>
 # KopiPedia ☕
 Aplikasi Android berbasis edukasi untuk mengenal jenis-jenis biji kopi dan metode penyeduhannya secara presisi. <p>
-Proyek ini dikelola menggunakan metodologi SCRUM. Progres pengerjaan dapat dilihat di: [https://sharing.clickup.com/90181231080/b/h/2kzkgrf8-658/5b3b549e148a349] <p>
+Proyek ini dikelola menggunakan metodologi SCRUM. Progres pengerjaan dapat dilihat di: [https://sharing.clickup.com/90181231080/b/h/4-90187464600-2/c083bdd1631d20e] <p>
 ---
 
 ## 📌 Deskripsi Proyek
@@ -55,7 +55,13 @@ Representasi visual bagaimana aplikasi terlihat di perangkat Android nyata.
 
 ### 5. Fitur AI: rekomendasi Kopi
 
-<img src="kopiassetfr/asliitu.jpeg" width="700"> <p>
+<img src="kopiassetfr/lookalike.jpeg" width="700"> <p>
+
+---
+
+### 6. TimeLine: Clickup
+<img src="kopiassetfr/clickup-gantt.jpeg" width="700"> <p>
+<img src="kopiassetfr/clickup-board.jpeg" width="700"> <p>
 
 ---
 
