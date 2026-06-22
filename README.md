@@ -67,6 +67,9 @@ Representasi visual bagaimana aplikasi terlihat di perangkat Android nyata.
 
 ---
 
+## Link Demo Video Youtube
+Link Youtube: 
+
 ## 🛠️ Tech Stack
 - **Language**: Java
 - **UI Framework**: Android XML (Material Design, CardView)
